@@ -1,0 +1,84 @@
+
+form{
+   display: flex;
+   flex-direction: column;
+
+   padding: 40px 50px;
+   min-width: 400px;
+   width: 35vw;
+   border-radius: 5%;
+   color: var(--color-font-1);
+
+   background-color: var(--color-1);
+   font-family: Poppins, sans-serif;
+}
+
+form h1{
+   background-color: var(--color-2);
+   padding: var(--window--margin-top) 1em;
+   border: 2px dashed var(--color-0);
+   border-radius: 40px;
+
+   margin-bottom: 2.5rem;
+   text-align: center;
+}
+
+form .form-input{
+   display: flex;
+   flex-direction: column;
+}
+form label{
+   margin: 10px 0 0 0;
+}
+form input{
+   outline: none;
+   padding: 5px 10px;
+   border-radius: 5px;
+   border-style: none;
+   font-size: 1.2em;
+   font-weight: bold;
+   color: var(--color-font-1);
+   background-color: var(--color-2);
+}
+form select{
+   outline: none;
+   padding: 5px 10px;
+   border-radius: 5px;
+   border-style: none;
+   font-size: 1em;
+   font-weight: bold;
+   color: var(--color-font-1);
+   background-color: var(--color-2);
+}
+form select option{
+   font-weight: bold;
+   color: black;
+}
+form .button{
+   align-self: center;
+
+   padding: 10px 0;
+   margin: 20px 0;
+   min-width: 150px;
+   width: 40%;
+   font-size: 1.3em;
+   font-weight: bold;
+   border-radius: 40px;
+
+   color: var(--color-font-1);
+   background-color: var(--color-2);
+   cursor: pointer;
+
+   transition: 0.5s;
+}
+form .button:hover {
+   transition: 0.5s;
+   padding: 15px;
+   width: 45%;
+   background-color: var(--color-0);
+}
+
+
+#jenis_kelamin{
+   cursor: pointer;
+}
