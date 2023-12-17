@@ -1,9 +1,8 @@
 > [!NOTE]
 > Aplikasi website yang saya buat kali ini bernama `DATABASE` yang dapat melakukan user authetication dan menyimpan data dalam database mysql 
 -
--
--
--
+
+
 
 
 # Bagian 1: Client-side Programming (Bobot: 30%)
@@ -81,7 +80,7 @@
 
 
 * saya menggunakan website  `infinityfree` sebagai provider hosting gratis kali ini
-* hal-hal yang diperlukan yaitu pasti kode program, akun infinityfree, free SSL, dan Cname record karena hosting gratis ini menggunakan sub-domain dari website lain yang sudah tersedia pada website ini
+* hal-hal yang diperlukan yaitu pasti kode program, akun infinityfree, free SSL, FTP filezilla, dan Cname record karena hosting gratis ini menggunakan sub-domain dari website lain yang sudah tersedia pada website ini
 *  `infinityfree` sangat cocok untuk saya dikarena interface `Cpanel` yang sangat mudah dimengerti dan tentunya website ini menyediakan SSL gratis
 *  saya menggunakan password yang cukup rumit kemudian menggunakan SSL yang gratis tapi terpercaya
 *  Konfigurasi server yang saya pakai Cpanel yang disediakan website menggunakan sistem operasi ubuntu sehingga masih terdapat htdocs dan gttaccess kemudian untuk konfigurasi firewall saya menggunakan SSL gratis, menggunakan database mysql mungkin hanya itu saja untuk konfigurasi server pada website saya.
