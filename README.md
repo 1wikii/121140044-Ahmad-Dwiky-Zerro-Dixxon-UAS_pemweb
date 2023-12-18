@@ -5,13 +5,15 @@
 ## Website
 
 > [_CLICK THIS_](https://rb-121140044-uas-pemweb.great-site.net/) <br>
-> **AKUN ADMIN** <br>
+><br>
+>  **AKUN ADMIN** <br>
+><br>
 > admin@gmail.com  <br>
 > admin <br>
 
-
+<br><br>
 # Bagian 1: Client-side Programming (Bobot: 30%)
-
+<br><br>
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/dd534734-9a1e-41ea-9a58-ecd84c26aa13)
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/c4bd62c1-82d0-498e-b45f-5164e47cef12)
 
@@ -36,9 +38,9 @@
 *  Fungsi pertama berfungsi untuk menambahkan class pada CSS agar active saat diklik
 *  Fungsi kedua ada evenet handler untuk berpindah page dengan JS
 
-
+<br><br>
 # Bagian 2: Server-side Programming (Bobot: 30%)
-
+<br><br>
 
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/08af4d18-6eb7-410a-bd78-b41b7f8c7da6)
 
@@ -76,9 +78,9 @@
 *  pada kode diatas saya menggunakan `AJAX` `JQUERY` untuk membaca file lokal JSON yang berisi data yang diambil dari database kemudian menampilaknnya ke dalam tabel
 
 
-
+<br><br>
 # Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
-
+<br><br>
 
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/38e7ceea-33a2-48ef-8be5-6ebe5dd102e2)
 
