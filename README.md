@@ -1,10 +1,13 @@
 > [!NOTE]
 > Aplikasi website yang saya buat kali ini bernama `DATABASE` yang dapat melakukan user authetication dan menyimpan data dalam database mysql 
--
+
 
 ## Website
 
 > [_CLICK THIS_](https://rb-121140044-uas-pemweb.great-site.net/)
+> **AKUN ADMIN**
+> admin@gmail.com
+> admin
 
 
 # Bagian 1: Client-side Programming (Bobot: 30%)
@@ -33,9 +36,9 @@
 *  Fungsi pertama berfungsi untuk menambahkan class pada CSS agar active saat diklik
 *  Fungsi kedua ada evenet handler untuk berpindah page dengan JS
 
--
+
 # Bagian 2: Server-side Programming (Bobot: 30%)
--
+
 
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/08af4d18-6eb7-410a-bd78-b41b7f8c7da6)
 
@@ -43,9 +46,8 @@
 *  Melakukan parsing data dari form input menjadi variable PHP yang akan digunakan untuk dimasukan ke dalam database
 *  Object pada gambar diatas adalah $account yang berarti akun untuk melakukan fetch data dengan method pushData pada class FETCH()
 
--
+
 # Bagian 3: Database Management (Bobot: 20%)
--
 
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/e8c85e71-b49c-4913-ae1f-5c91c5b904a4)
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/5fd43c35-2646-4aad-b073-7560fadc6271)
@@ -58,9 +60,9 @@
 *  saya membuat class khusus bernama `DATABASE` untuk hanya melakukan koneksi ke database kemudian koneksi tersebut akan dipakai oleh child-childnya menggunakan konsep `inheritance`
 *  menyimpan jenis browser dan ip pengguna juga pada gambar ketiga
 
--
+
 # Bagian 4: State Management (Bobot: 20%)
--
+
 
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/e0945646-4f46-4e1e-bf56-d948c821ffb6)
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/a9d7e79e-faf2-4c77-9013-cf6d745b9d8a)
@@ -74,9 +76,9 @@
 *  pada kode diatas saya menggunakan `AJAX` `JQUERY` untuk membaca file lokal JSON yang berisi data yang diambil dari database kemudian menampilaknnya ke dalam tabel
 
 
--
+
 # Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
--
+
 
 ![image](https://github.com/1wikii/121140044-Ahmad-Dwiky-Zerro-Dixxon-UAS_pemweb/assets/92775985/38e7ceea-33a2-48ef-8be5-6ebe5dd102e2)
 
